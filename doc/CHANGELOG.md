@@ -29,6 +29,7 @@ See doc/COPYRIGHT.rdoc for more details.
 
 # Changelog
 
+* `#2706` [Migration] Timeline options does not contain 'none' type
 * Fix mysql data migrations
 
 ## 3.0.0pre30
