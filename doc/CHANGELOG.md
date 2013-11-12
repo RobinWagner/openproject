@@ -34,6 +34,7 @@ See doc/COPYRIGHT.rdoc for more details.
 * `#2473` [Timelines] Tooltip in timeline report shows star * instead of hash # in front of ID 
 * `#2721` Fix: Fix: Fix: Missing journal entries for customizable_journals
 * `#2718` Newlines in workpackage descriptions aren't normalized for change tracking
+* `#1719` Set X-Frame-Options to same origin
 
 ## 3.0.0pre28
 
