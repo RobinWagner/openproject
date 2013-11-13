@@ -31,6 +31,7 @@ See doc/COPYRIGHT.rdoc for more details.
 
 * Fix mysql data migrations
 * `#2699` [Wiki] 400 error when entering special character in wiki title
+* `#2756` [Work package] 500 when clicking on analyze button in work package summary
 
 ## 3.0.0pre30
 
